@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1714938010480
+current_stage: None
+description: null
+last_updated_timestamp: 1714938010480
+name: DecisionTreeClassifier-run_nlp_1
+run_id: b5fe34efd0bd41e5ae5aa08c0955732e
+run_link: null
+source: file:///c:/Users/ferna/Documents/MCD/Semestre%20II/Programacion%20II/Repos/ProgramacionII/Challenges/02%20-%20NLP%20Comments/mlruns/0/b5fe34efd0bd41e5ae5aa08c0955732e/artifacts/DecisionTreeClassifier-run_nlp_1
+status: READY
+status_message: null
+storage_location: file:///c:/Users/ferna/Documents/MCD/Semestre%20II/Programacion%20II/Repos/ProgramacionII/Challenges/02%20-%20NLP%20Comments/mlruns/0/b5fe34efd0bd41e5ae5aa08c0955732e/artifacts/DecisionTreeClassifier-run_nlp_1
+user_id: null
+version: 1

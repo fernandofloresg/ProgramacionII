@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ferna/Documents/MCD/Semestre%20II/Programacion%20II/Repos/ProgramacionII/Challenges/02%20-%20NLP%20Comments/mlruns/0/b5fe34efd0bd41e5ae5aa08c0955732e/artifacts
+end_time: 1714938010511
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b5fe34efd0bd41e5ae5aa08c0955732e
+run_name: run_nlp_1
+run_uuid: b5fe34efd0bd41e5ae5aa08c0955732e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714937995933
+status: 3
+tags: []
+user_id: ferna
