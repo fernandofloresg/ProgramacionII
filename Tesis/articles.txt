@@ -1,0 +1,8 @@
+Paper	Year	Code	url
+Crowd Counting in the Frequency Domain	2022		PDF
+Boosting Crowd Counting via Multifaceted Attention	2022		PDF
+Rethinking Spatial Invariance of Convolutional Networks for Object Counting	2022	https://github.com/zhiqic/Rethinking-Counting	PDF
+Point-Query Quadtree for Crowd Counting, Localization, and More	2023		https://arxiv.org/pdf/2308.13814.pdf 
+Robust Unsupervised Crowd Counting and Localization
+with Adaptive Resolution SAM	2024		https://arxiv.org/pdf/2402.17514.pdf
+Domain-General Crowd Counting in Unseen Scenarios	2023		https://arxiv.org/pdf/2212.02573.pdf
